@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/YHK/CLionProjects/NumofDiamond/main.cpp
+fstream
+-
+
+C:/Users/YHK/CLionProjects/NumofDiamond/main2.cpp
+iostream
+-
+fstream
+-
+

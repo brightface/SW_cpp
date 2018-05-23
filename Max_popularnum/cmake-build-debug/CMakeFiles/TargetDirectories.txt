@@ -1,0 +1,3 @@
+C:/Users/YHK/CLionProjects/Max_popularnum/cmake-build-debug/CMakeFiles/Max_popularnum.dir
+C:/Users/YHK/CLionProjects/Max_popularnum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/YHK/CLionProjects/Max_popularnum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

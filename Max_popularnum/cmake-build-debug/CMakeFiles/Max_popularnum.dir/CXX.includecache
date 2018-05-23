@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/YHK/CLionProjects/Max_popularnum/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+cstdlib
+-
+cstdio
+-
+
